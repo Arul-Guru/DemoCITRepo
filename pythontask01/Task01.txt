@@ -1,1 +1,3 @@
 python sample code
+
+print(10*10)
